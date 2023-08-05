@@ -1,0 +1,6 @@
+public static void main(String args[]){
+int a=67;
+int b=33;
+int c=a+b;
+system.out.print(c);
+}
